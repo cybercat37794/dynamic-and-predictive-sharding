@@ -8,8 +8,7 @@ This project demonstrates how to optimize database query performance using dynam
 - Usage
 - Code Structure
 - Results
-- Contributing
-- License
+- Acknowledgments
 
 ## Overview
 The goal of this project is to optimize database query performance by:
